@@ -1,2 +1,2 @@
 # Shoppingcart
-Creating a Java Shopping Cart Web Application using Spring MVC and Hibernate
+Creating a Java Shopping Cart Web Application using Spring MVC and Hibernate in Myeclipse.
